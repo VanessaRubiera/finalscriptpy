@@ -24,4 +24,5 @@ jupyter-lab
 8. Ejercicio de consumir una API-Hacer un request [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
 Others comands:
+`Ctrl + R` Busqueda inversa al historial (en bash)
 
